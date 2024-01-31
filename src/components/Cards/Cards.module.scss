@@ -1,0 +1,29 @@
+.badge{
+    bottom: 120px;
+    right: 20px;
+    font-size: 10px;
+}
+
+.button {
+    top: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+  }
+  
+  .heartIcon {
+    color: rgb(245, 242, 242);
+  }
+  
+  
+  .disabled {
+    /* Disabled button styles go here */
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+.cards{
+    border: 2px solid #000000;
+
+}
