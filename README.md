@@ -2,6 +2,8 @@
 
 ![Rick and Morty Web UI](https://github.com/alihankuru/rickandmortywebui/blob/master/UI.png)
 
+![Rick and Morty Web UI](https://github.com/alihankuru/rickandmortywebui/blob/master/UI2.png)
+
 A web user interface for exploring information about the Rick and Morty TV series.
 
 ## Features
